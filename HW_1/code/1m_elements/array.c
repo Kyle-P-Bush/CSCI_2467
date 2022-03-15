@@ -2,8 +2,8 @@
 #include <stdlib.h>
 #include <time.h>
 
-#define ROWS 1000
-#define COLS 1000
+#define ROWS 800
+#define COLS 800
 
 void fill_random(int array[ROWS][COLS], int max);
 void copyByRows(int src[ROWS][COLS], int dst[ROWS][COLS]);
